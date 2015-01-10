@@ -1,5 +1,6 @@
 # svg2png
 Converter svg files in png. Supports changes of color and size.
+The application supports MAC (OS X)
 # License
 Copyright (c) 2015 Dmitriy Karachentsov d.karachentsov@gmail.com
 
